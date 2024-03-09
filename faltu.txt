@@ -1,1 +1,1 @@
-This is the simple text file
+now this is forked file
